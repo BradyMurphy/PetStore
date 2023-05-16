@@ -1,0 +1,122 @@
+Greg the clerk arrives at the store on day 1.
+Julie the trainer arrives at the store on day 1.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a cat.
+Julie is feeding a ferret.
+Julie is feeding a snake. Julie says the snake has gotten sick. They're being moved to the clinic.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a cat.
+Julie is feeding a ferret.
+Julie is feeding a snake.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a cat.
+Julie is feeding a ferret.
+Julie is feeding a snake.
+Greg says there is $0.00 in the register. They're going to the bank.
+There is now $1000.00 in the register.
+Greg says the inventory is valued at $765.00
+Greg says they are low on litter in stock. They're going to order more.
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is not yet housebroken, they're going to train with Julie
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is not yet housebroken, they're going to train with Julie
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a ferret.
+Greg says Customer 1 will pay for the ferret at list price.
+Insurance will be added to the sale for $50.
+Greg is adding $68.00 to the register.
+Customer 1 has left the store after buying a ferret.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying food.
+Julie offered Customer 2 a 10% discount on the food
+Customer 2 will continue to look at other items.
+Customer 2 is thinking about buying a cat.
+Greg says Customer 2 will pay for the cat at list price.
+Insurance will be added to the sale for $50.
+Greg is adding $210.00 to the register.
+Customer 2 has left the store after buying a cat.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a cat.
+Greg says Customer 3 will pay for the cat at list price.
+3 Vet visits will be added to the sale for $75
+Greg is adding $97.00 to the register.
+Customer 3 has left the store after buying a cat.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying treats.
+Julie offered Customer 4 a 10% discount on the treats
+Customer 4 will continue to look at other items.
+Customer 4 is thinking about buying a bird.
+Julie offered Customer 4 a 10% discount on the bird
+Customer 4 will continue to look at other items.
+Customer 4 is thinking about buying a leash.
+Julie offered Customer 4 a 10% discount on the leash
+Customer 4 will pay for the leash with a 10% discount
+Greg is adding $19.80 to the register.
+Customer 4 has left the store after buying a leash.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a bird.
+Julie offered Customer 5 a 10% discount on the bird
+Customer 5 will continue to look at other items.
+Customer 5 is thinking about buying a bird.
+Greg says Customer 5 will pay for the bird at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $142.00 to the register.
+Customer 5 has left the store after buying a bird.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a toy.
+Greg says Customer 6 will pay for the toy at list price.
+Greg is adding $130.00 to the register.
+Customer 6 has left the store after buying a toy.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a bird.
+Greg says Customer 7 will pay for the bird at list price.
+Insurance will be added to the sale for $50.
+Greg is adding $94.00 to the register.
+Customer 7 has left the store after buying a bird.
+Customer 8 has entered the store.
+Customer 8 is thinking about buying a ferret.
+Greg says Customer 8 will pay for the ferret at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $102.00 to the register.
+Customer 8 has left the store after buying a ferret.
+Customer 9 has entered the store.
+Customer 9 is thinking about buying a ferret.
+Greg says Customer 9 will pay for the ferret at list price.
+Insurance will be added to the sale for $50.
+Greg is adding $106.00 to the register.
+Customer 9 has left the store after buying a ferret.
+Customer 10 has entered the store.
+Customer 10 is thinking about buying a dog.
+Greg says Customer 10 will pay for the dog at list price.
+1 Vet visits will be added to the sale for $25
+Greg is adding $133.00 to the register.
+Customer 10 has left the store after buying a dog.
+Julie is cleaning a dog cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a sick snake's cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a cat cage.
+Julie is cleaning a snake cage. Oh no the snake escaped.
+Greg has caught the snake and returned it to the cage.
+Julie is cleaning a snake cage.
+Greg is locking up the store. Greg and Julie are leaving the store.
+Mike says a new cat has arrived on 1. It will be added to inventory.
+Mike says a new cat has arrived on 1. It will be added to inventory.
+Mike says a new cat has arrived on 1. It will be added to inventory.

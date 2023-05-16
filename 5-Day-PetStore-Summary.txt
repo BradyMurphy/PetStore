@@ -1,0 +1,65 @@
+       -------End Simulation-------
+After 5 days the following items are left in inventory.
+dog: $9.00
+bird: $10.00
+snake: $3.00
+leash: $25.00
+treats: $6.00
+cat: $92.00
+toy: $6.00
+food: $39.00
+leash: $9.00
+treats: $23.00
+snake: $36.00
+cat litter: $0.00
+cat: $93.00
+cat: $74.00
+cat litter: $14.00
+cat litter: $19.00
+bird: $60.00
+bird: $6.00
+ferret: $0.00
+ferret: $8.00
+ferret: $45.00
+bird: $19.00
+bird: $45.00
+ferret: $20.00
+ferret: $22.00
+ferret: $40.00
+toy: $52.00
+toy: $42.00
+toy: $27.00
+cat litter: $25.00
+cat litter: $4.00
+cat litter: $22.00
+Value of remaining inventory: $895.00
+Over 5 days the following items were sold.
+ferret: sold on day 1 for $68.00
+cat: sold on day 1 for $210.00
+cat: sold on day 1 for $97.00
+leash: sold on day 1 for $19.80
+bird: sold on day 1 for $142.00
+toy: sold on day 1 for $130.00
+bird: sold on day 1 for $94.00
+ferret: sold on day 1 for $102.00
+ferret: sold on day 1 for $106.00
+dog: sold on day 1 for $133.00
+toy: sold on day 2 for $6.00
+cat litter: sold on day 3 for $36.00
+cat litter: sold on day 3 for $46.00
+snake: sold on day 3 for $82.40
+food: sold on day 3 for $4.00
+bird: sold on day 4 for $186.00
+cat litter: sold on day 4 for $50.00
+cat: sold on day 4 for $183.20
+food: sold on day 4 for $140.00
+treats: sold on day 4 for $30.60
+cat litter: sold on day 4 for $41.40
+bird: sold on day 4 for $110.00
+dog: sold on day 5 for $52.00
+cat litter: sold on day 5 for $8.00
+cat litter: sold on day 5 for $38.00
+Total money from sales: $2115.40
+There are 4 sick pets remaining in inventory.
+There is $1303.40 left in the register after 5 days.
+$1000.00 was added to the register over 5 days.

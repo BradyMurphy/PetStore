@@ -1,0 +1,85 @@
+Lisa the clerk arrives at the store on day 5.
+Bob the trainer arrives at the store on day 5.
+Bob is feeding a dog. Bob says the dog has gotten sick. They're being moved to the clinic.
+Bob is feeding a bird.
+Bob is feeding a sick snake. They haven't gotten better.
+Bob is feeding a sick dog. Bob says the dog has gotten better. They're being moved to the store.
+Bob is feeding a cat.
+Bob is feeding a sick snake. They haven't gotten better.
+Bob is feeding a cat.
+Bob is feeding a cat. Bob says the cat has gotten sick. They're being moved to the clinic.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Lisa says there is $1521.40 in the register. No need to go to bank.
+Lisa says the inventory is valued at $919.00
+Lisa says they are low on food in stock. They're going to order more.
+Lisa says they are low on litter in stock. They're going to order more.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the cat is now housebroken.
+Bob is training a cat.
+The cat is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the cat is now housebroken.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a dog.
+Lisa says Customer 1 will pay for the dog at list price.
+Insurance will be added to the sale for $50.
+Lisa is adding $52.00 to the register.
+Customer 1 has left the store after buying a dog.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying cat litter.
+Lisa says Customer 2 will pay for the cat litter at list price.
+Lisa is adding $8.00 to the register.
+Customer 2 has left the store after buying cat litter.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying cat litter.
+Lisa says Customer 3 will pay for the cat litter at list price.
+Lisa is adding $38.00 to the register.
+Customer 3 has left the store after buying cat litter.
+Bob is cleaning a sick dog's cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a sick snake's cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick snake's cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick cat's cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Lisa is locking up the store. Lisa and Bob are leaving the store.

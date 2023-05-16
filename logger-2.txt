@@ -1,0 +1,40 @@
+Greg the clerk arrives at the store on day 2.
+Bob the trainer arrives at the store on day 2.
+Bob is feeding a dog.
+Bob is feeding a bird.
+Bob is feeding a sick snake. They haven't gotten better.
+Bob is feeding a dog.
+Bob is feeding a cat.
+Bob is feeding a snake.
+Bob is feeding a snake. Bob says the snake has gotten sick. They're being moved to the clinic.
+Greg says there is $1654.80 in the register. No need to go to bank.
+Greg says the inventory is valued at $460.00
+Greg says they are low on cats in stock. They're going to order more.
+Greg says they are low on birds in stock. They're going to order more.
+Greg says they are low on ferrets in stock. They're going to order more.
+Greg says they are low on litter in stock. They're going to order more.
+Bob is training a dog.
+The dog is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the dog is now housebroken.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a toy.
+Greg says Customer 2 will pay for the toy at list price.
+Greg is adding $6.00 to the register.
+Customer 2 has left the store after buying a toy.
+Bob is cleaning a dog cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a sick snake's cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a sick snake's cage.
+Greg is locking up the store. Greg and Bob are leaving the store.
+Mike says a new bird has arrived on 2. It will be added to inventory.
+Mike says a new bird has arrived on 2. It will be added to inventory.
+Mike says a new bird has arrived on 2. It will be added to inventory.
